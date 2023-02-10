@@ -1,0 +1,8 @@
+mail:
+  provider: mailgun
+  from:
+    name: abc
+
+retry:
+  maxAttempts: 3
+  retry.maxDelay: 100
