@@ -1,5 +1,5 @@
 mail:
-  provider: mailgun
+  provider: mailgun-smtp
   from:
     name: abc
 
