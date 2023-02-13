@@ -1,8 +1,8 @@
 mail:
-  provider: mailgun-smtp
+  provider: mailgun-api
   from:
     name: abc
 
 retry:
-  maxAttempts: 2
+  maxAttempts: 3
   retry.maxDelay: 100
