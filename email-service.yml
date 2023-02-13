@@ -1,5 +1,5 @@
 mail:
-  provider: mailgun-api
+  provider: sendgrid
   from:
     name: abc
 
