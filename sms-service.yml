@@ -1,7 +1,5 @@
-mail:
+sms:
   provider: twillio
-  from:
-    name: abc
 
 retry:
   maxAttempts: 3
