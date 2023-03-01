@@ -1,0 +1,6 @@
+sms:
+  provider: twillio
+
+retry:
+  maxAttempts: 3
+  retry.maxDelay: 100
